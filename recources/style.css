@@ -1,7 +1,15 @@
-*{
-  font-family: cursive;
+#heading{
+  background-color: #287aed;
+  font-family: times new roman;
 }
 
+a{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: times new roman;
+}
 
 h1,h2,h3{text-align: center;
 
@@ -14,15 +22,28 @@ img{
   margin-right: auto;
 }
 
+#world{
+  font-family: cursive;
 
-#heading{
-  background-color: #287aed;
 }
 
-a{
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:
+#wheel{
+  font-family: cursive;
+
+}
+
+#human{
+  font-family: cursive;
+
+}
+
+#footer{
+  font-family: cursive;
+
+}
+
+#bottom{
+  background-color: #287aed;
+  font-family: times new roman;
+  text-align: right;
 }
